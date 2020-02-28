@@ -1,1 +1,9 @@
-
+header {
+    border: solid 5px black;
+    
+}
+body {
+    border: solid 5px black;
+    background-color: lightgoldenrodyellow;
+}
+aside{border solid 2px black}
