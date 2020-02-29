@@ -1,1 +1,17 @@
-h1{color: blue;}
+body {
+    background-color: white;
+}
+
+h1 {
+    color: darkcyan;
+    border: 1px solid black;
+    background-color: lightpink;
+}
+
+h2 {
+    color: lightcoral
+}
+
+a {
+    color: darkcyan;
+}
