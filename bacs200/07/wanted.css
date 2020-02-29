@@ -1,9 +1,35 @@
 header {
-    border: solid 5px black;
-    
+    border: solid 5px brown;
+    background-color: burlywood;
+    text-align: center;
+    font-family: Bernard MT Condensed;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
 }
+
 body {
-    border: solid 5px black;
-    background-color: lightgoldenrodyellow;
+    background-color: black;
 }
-aside{border solid 2px black}
+
+main {
+    border: solid 3px brown;
+    background-color: burlywood;
+    font-family: Bernard MT Condensed;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center
+}
+
+aside {
+    background-color: antiquewhite;
+    border: solid 5px brown;
+    padding-right: 200px;
+    float: right;
+}
