@@ -99,3 +99,19 @@ textarea {
     width: 90%;
     margin: auto;
 }
+
+section p {
+    color: azure;
+    background-color: darkcyan;
+}
+
+table td {
+    color: azure;
+}
+
+aside {
+    background-color: darkcyan;
+    border: solid 2px azure;
+    padding-right: 200px;
+    float: right;
+}
