@@ -29,6 +29,49 @@
             }
         }
 
+        .dropbtn {
+            background-color: lightgray;
+            color: black;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            right: 0;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+        }
+
     </style>
     <!-- Custom styles for this template -->
     <link href="album.css" rel="stylesheet">
@@ -48,17 +91,26 @@
         </nav>
     </header>
     <main>
+        <div class="dropdown" style="float:left;">
+            <button class="dropbtn">See More</button>
+            <div class="dropdown-content" style="left:0;">
+                <a href="#">The Highlights</a>
+                <a href="#">Take the Challenge</a>
+                <a href="#">Montana Edition</a>
+            </div>
+        </div>
 
         <section class="jumbotron text-center">
             <div class="container">
                 <h1>Photo Scavenger Hunts!</h1>
                 <p class="lead text-muted">One of my favorite things to experience</p>
             </div>
+
             <section>
                 <h2 hidden>Photoscavenger Hunts</h2>
                 <p>Photo scavenger hunts are so much fun and my husband and I do miniature hunts when we go somewhere new. </p>
                 <p>My favorite photo scavenger hunts we do though are the ongoing ones. We did a giant photo scavenger hunt over the span of a year. I kept track of the list in my phone. It sounds crazy but this list took us on so many adventures, gave us fun new date ideas, and left us with some memorable pictures! It was random items all put together into one list and it was a blast!
-                    There are 127 items on the list and it was quite the challenge but it was worth it!</p>
+                    There are 126 items on the list and it was quite the challenge but it was worth it!</p>
             </section>
             <section>
                 <h2 hidden>Photoscavenger Hunts</h2>
