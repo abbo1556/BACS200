@@ -2,4 +2,4 @@ I want my page to demonstrate who I am outside of just being a business student.
 
 For Milestone 3, I am going to add a Hoverable Dropdown in photo.html, A Scroll to Top Button in photo.html, a Slideshow Gallery in highlights.html, Custom Check Boxes in challenge.html, and Modal Images in montana.html. These will be my 5 "tricks" from W3schools.
 
-For milestone 4 I have started google analytics to track my website. I have also added facebook like/share/sign up buttons to the main pages including photo.html,disney.html,sewing.html and animals.html.
+For milestone 4 I have started google analytics to track my website. I have uploaded a snippet of my use of the analytics. It is named analytics.png I have also added facebook like/share/sign up buttons to the main pages including photo.html,disney.html,sewing.html and animals.html.
